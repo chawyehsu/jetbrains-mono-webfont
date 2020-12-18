@@ -1,0 +1,33 @@
+{
+  "name": "jetbrains-mono-webfont",
+  "version": "0.1.0",
+  "description": "webfont package for the JetBrains Mono typeface",
+  "license": "MIT",
+  "author": "Chawye Hsu <chawyehsu@hotmail.com>",
+  "homepage": "https://github.com/chawyehsu/jetbrains-mono-webfont",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chawyehsu/jetbrains-mono-webfont.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chawyehsu/jetbrains-mono-webfont/issues"
+  },
+  "main": "jetbrains-mono.css",
+  "style": "jetbrains-mono.css",
+  "files": [
+    "example",
+    "fonts",
+    "jetbrains-mono.css",
+    "OTF.txt",
+    "VERSION"
+  ],
+  "keywords": [
+    "jetbrains",
+    "jetbrains-mono",
+    "mono",
+    "font",
+    "typeface",
+    "webfont",
+    "css"
+  ]
+}
